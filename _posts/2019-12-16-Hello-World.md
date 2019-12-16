@@ -28,7 +28,7 @@ El producto de software debe ser lo más reutilizable posible, de manera tal que
 
 Ademas dicho en mis propias palabras, en esta materia he aprendido como puedo efectuar proyectos y trabajos en grupos asignando debidamente las funciones de cada miembro del equipo de trabajo
 
-![un gato]({{ site.baseurl }}/images/ac66eaf5d7543888714da26d32028974.jpg)
+![computadora]({{ site.baseurl }}/images/31912872-la-gente-de-negocios-que-usan-la-computadora-portátil-junto.jpg)
 
 
 
