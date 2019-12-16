@@ -13,4 +13,4 @@ Primer semestre.
 
 ### Contact me
 
-[email@domain.com](dipak.patelc@ug.edu.ec)
+[dipak.patelc@ug.edu.ec](dipak.patelc@ug.edu.ec)
