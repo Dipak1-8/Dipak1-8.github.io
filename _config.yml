@@ -17,16 +17,16 @@ avatar: https://avatars1.githubusercontent.com/u/57643856?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: dipak.patelc@ug.edu.ec
+  facebook: https://www.facebook.com/dipak.scout
   flickr:
-  github: 
+  github: https://github.com/Dipak1-8
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: https://es.stackoverflow.com/users/148663/dipak-patel
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
