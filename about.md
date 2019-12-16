@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+## Informacion Personal
 
-Some information about you!
+Estudiante de la Universidad De Guayaquil
 
-### More Information
+Carrera de Ingenieria en Software
 
-A place to include any other types of information that you'd like to include about yourself.
+Primer semestre.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](dipak.patelc@ug.edu.ec)
