@@ -26,14 +26,23 @@ Ademas dicho en mis propias palabras, en esta materia he aprendido como puedo ef
 
 # Modelo de proceso en Ingeniería
 -Especificación Formulación de los requisitos y restricciones del sistema
+
 -Diseño Elaboración de un documento con el modelo del sistema
+
 -Fabricación Construcción del sistema
+
 -Prueba Comprobación de que el sistema cumple las especificaciones requeridas
+
 -Instalación Entrega del sistema al cliente y garantía de que es operativo
+
 -Mantenimiento Reparación de los fallos que aparecen en el sistema — En el proceso de construcción de sistemas informáticos se pueden distinguir tres fases genéricas:
+
 -La definición
+
 -El desarrollo
+
 -El mantenimiento
+
 -Fase de definición Se identifican los requisitos claves del sistema y del software Se desarrolla Un Análisis de Sistemas Se define el papel de cada elemento en el sistema automatizado de información, incluyendo el que jugará el software Un Análisis de Requisitos Se especifican todos los requisitos de usuario que el sistema tiene que satisfacer Esta fase está orientada al QUÉ Qué información ha de ser procesada, qué función y rendimiento se desea, qué interfaces han de establecerse, qué ligaduras de diseño existen y qué criterios de validación se necesitan para definir un sistema correcto.
 
 # Metodologias agiles
