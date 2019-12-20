@@ -3,6 +3,7 @@ layout: post
 title: Mi primera pagina
 ---
 # Carrera De Ingenieria En Software
+Hola bienvenido a mi blog en el cual voy a hablarte un poco sobre lo que es la ingenieria de software pero basandome en datos fijos y concretos como lo son los que vas a ver acontinuacion:
 
 
 
@@ -10,6 +11,11 @@ title: Mi primera pagina
 
 # Informacion adquirida en la carrera
 En esta materia he aprendido mucho sobre lo que es un software y tambien como aplicar esos conocimientos en la vida laboral.
+
+Origen de IS
+Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
+Puede definirse según Alan Davis como "la aplicación inteligente de principios probados, técnicas, lenguajes y herramientas para la creación y mantenimiento, dentro de un coste razonable, de software que satisfaga las necesidades de los usuarios".
+
 
 IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software.
 
@@ -44,6 +50,16 @@ Ademas dicho en mis propias palabras, en esta materia he aprendido como puedo ef
 -El mantenimiento
 
 -Fase de definición Se identifican los requisitos claves del sistema y del software Se desarrolla Un Análisis de Sistemas Se define el papel de cada elemento en el sistema automatizado de información, incluyendo el que jugará el software Un Análisis de Requisitos Se especifican todos los requisitos de usuario que el sistema tiene que satisfacer Esta fase está orientada al QUÉ Qué información ha de ser procesada, qué función y rendimiento se desea, qué interfaces han de establecerse, qué ligaduras de diseño existen y qué criterios de validación se necesitan para definir un sistema correcto.
+
+El software no se estropea, pero se deteriora. Durante su vida, el software sufre cambios (mantenimiento). Conforme se hacen los cambios, es bastante probable que se introduzcan nuevos defectos, lo que hace que el software se vaya deteriorando debido a estos cambios
+
+Responsabilidad ética y profesional en ingeniería del software (I)
+
+La IS se realiza dentro de un marco social y legal que limita la libertad de la gente que trabaja en dicha área.
+Los ingenieros de software: 
+Deben aceptar que su labor implica responsabilidades mayores que la simple aplicación de habilidades técnicas.
+Deben comportarse de forma ética y moralmente responsable para ser respetado como un ingeniero profesional.
+
 
 # Metodologias agiles
 Metodologías ágiles: métodos de desarrollo de software basados en procesos iterativos e incrementales, donde los requisitos y soluciones evolucionan durante la colaboración.
