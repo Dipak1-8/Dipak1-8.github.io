@@ -31,5 +31,4 @@ Tenemos panes de todo tipo y precios
 # El precio de los pasteles varia dependiendo del tipo de pastel y sus ingredientes en el pedido.
 
 
-![feeding]({{ site.baseurl }}/images/home/alimentacion/alimentos/panes/panes-guia-compra.jpg)
 
