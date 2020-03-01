@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mi primera pagina
+title: informacion util sobre la panaderia
 ---
-# Carrera De Ingenieria En Software
+# Pasti Pan
 Hola bienvenido a mi blog en el cual voy a hablarte un poco sobre lo que es la ingenieria de software pero basandome en datos fijos y concretos como lo son los que vas a ver acontinuacion:
 
 
