@@ -7,6 +7,8 @@ permalink: /about/
 ## Informacion Del Negocio
 
 Panaderia y Pasteleria
+
+
 Variedad de Panes y Pasteles
 
 Productos deliciosos y baratos
