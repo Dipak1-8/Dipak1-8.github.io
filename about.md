@@ -13,6 +13,6 @@ Productos deliciosos y baratos
 
 ### Contact me
 
-[dipak.patelc@ug.edu.ec](dipak.patelc@ug.edu.ec)
+04-4610475
 
 
