@@ -7,7 +7,7 @@ Hola bienvenido a mi blog en el cual voy a hablarte un poco sobre lo que es la i
 
 
 
-![un pan]({{ site.baseurl }}/images/2016/09/panes.jpg)
+![breads]({{ site.baseurl }}/images/2016/09/panes.jpg)
 
 # Informacion adquirida en la carrera
 En esta materia he aprendido mucho sobre lo que es un software y tambien como aplicar esos conocimientos en la vida laboral.
@@ -28,7 +28,7 @@ El producto de software debe ser lo más reutilizable posible, de manera tal que
 
 Ademas dicho en mis propias palabras, en esta materia he aprendido como puedo efectuar proyectos y trabajos en grupos asignando debidamente las funciones de cada miembro del equipo de trabajo
 
-![alimentacion]({{ site.baseurl }}/images/home/alimentacion/alimentos/panes/panes-guia-compra.jpg)
+![feeding]({{ site.baseurl }}/images/home/alimentacion/alimentos/panes/panes-guia-compra.jpg)
 
 # Modelo de proceso en Ingeniería
 -Especificación Formulación de los requisitos y restricciones del sistema
