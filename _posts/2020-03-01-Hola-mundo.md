@@ -7,7 +7,7 @@ Hola bienvenido a este blog donde obtendras toda la informacion que necesitas sa
 
 
 
-![breads]({{ site.baseurl }}/images/2016/09/panes.jpg)
+![breads]({{ site.baseurl }}/images/panes.jpg)
 
 
 
