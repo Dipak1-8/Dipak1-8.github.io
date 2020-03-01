@@ -28,7 +28,7 @@ El producto de software debe ser lo más reutilizable posible, de manera tal que
 
 Ademas dicho en mis propias palabras, en esta materia he aprendido como puedo efectuar proyectos y trabajos en grupos asignando debidamente las funciones de cada miembro del equipo de trabajo
 
-![computadora]({{ site.baseurl }}/images/home/alimentacion/alimentos/panes/panes-guia-compra.jpg)
+![alimentacion]({{ site.baseurl }}/images/home/alimentacion/alimentos/panes/panes-guia-compra.jpg)
 
 # Modelo de proceso en Ingeniería
 -Especificación Formulación de los requisitos y restricciones del sistema
