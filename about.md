@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-## Informacion Personal
+## Informacion Del Negocio
 
-Estudiante de la Universidad De Guayaquil
+Panaderia y Pasteleria
+Variedad de Panes y Pasteles
 
-Carrera de Ingenieria en Software
-
-Primer semestre.
+Productos deliciosos y baratos
 
 ### Contact me
 
