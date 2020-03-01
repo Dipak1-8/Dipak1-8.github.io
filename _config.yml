@@ -9,7 +9,7 @@ name: Panaderia Pastipan
 # Short bio or description (displayed in the header)
 description: Informacion util sobre la panaderia PastiPan ubicada en la isla trinitaria.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/57643856?s=460&v=4
+avatar: https://avatars2.githubusercontent.com/u/57643856?s=400&u=65b11bd8467f82806c541500bb09b1b4ba0d3ac1&v=4
 #
 # Flags below are optional
 #
@@ -17,8 +17,8 @@ avatar: https://avatars1.githubusercontent.com/u/57643856?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: dipak.patelc@ug.edu.ec
-  facebook: Dipak.scout
+  email: 
+  facebook:
   flickr:
   github: Dipak1-8
   instagram:
