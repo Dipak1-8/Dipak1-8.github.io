@@ -3,12 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dipak Patel
+name: Panaderia Pastipan
 
 
 # Short bio or description (displayed in the header)
-description: pagina para presentar examennnnnnnn
-
+description: Informacion util sobre la panaderia PastiPan ubicada en la isla trinitaria.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/57643856?s=460&v=4
 #
@@ -27,7 +26,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: https://es.stackoverflow.com/users/148663/dipak-patel
+  stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
