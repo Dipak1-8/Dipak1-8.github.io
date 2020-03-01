@@ -7,7 +7,7 @@ Hola bienvenido a mi blog en el cual voy a hablarte un poco sobre lo que es la i
 
 
 
-![un gato]({{ site.baseurl }}/images/ac66eaf5d7543888714da26d32028974.jpg)
+![un gato]({{ site.baseurl }}/blob:https://web.whatsapp.com/8d114f8d-27e7-4bd9-aac8-4b6c64d566da)
 
 # Informacion adquirida en la carrera
 En esta materia he aprendido mucho sobre lo que es un software y tambien como aplicar esos conocimientos en la vida laboral.
